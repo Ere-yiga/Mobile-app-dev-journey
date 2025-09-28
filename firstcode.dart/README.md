@@ -1,2 +1,2 @@
-#My first dart code.
-I practiced how to receive input in the console with stdin and stdout
+# My first dart code.
+## I practiced how to receive input and display output in the console stdout and stdin
